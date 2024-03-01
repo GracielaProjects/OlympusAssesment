@@ -1,0 +1,68 @@
+# .NET Core
+*.obj
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+
+# Visual Studio Code
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+# Visual Studio 2019 directories which contain experimental in-progress feature files
+CurrentSolutionVisualStudioInstance/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Unit test reports
+*.trx
+*.cov
+*.coverage
+*.htm
+*.html
+*.json
+*.tst
+
+# Output of Visual Studio code coverage results
+*.opendb
+
+# Azure Pipelines
+/.pipeline/
+
+# Others
+node_modules/
