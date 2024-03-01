@@ -39,7 +39,7 @@ docker pull gposadas00/olympus:latest
 ```
 Find Image in the link below
 
-[docker hub](https://hub.docker.com/r/gposadas00/olympus/tags)
+[Img olympus-graciela-img in docker hub ](https://hub.docker.com/r/gposadas00/olympus/tags)
 
 ### Running the Docker Container
 After building the Docker image, you can run a Docker container using the following command: 
