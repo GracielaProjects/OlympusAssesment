@@ -25,10 +25,10 @@ This application comes with Docker support, allowing you to containerize and dep
 
 ### Building the Docker Image
 
-To build the Docker image, navigate to the root directory of the project where the Dockerfile is located and run the following command:
+To build the Docker image, navigate to the root directory of the project where the Dockerfile is located and run the following command (Where 'olympus-graciela-img' is the name of the image):
 
 ```bash
-docker build -t olympus-img . 
+docker build -t olympus-graciela-img . 
 ```
 
 
