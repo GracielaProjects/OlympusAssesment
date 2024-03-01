@@ -37,6 +37,7 @@ An already built Docker image for this application is available on Docker Hub. Y
 ```bash
 docker pull gposadas00/olympus:latest
 ```
+'[docker hub](https://hub.docker.com/r/gposadas00/olympus/tags)'
 
 ### Running the Docker Container
 After building the Docker image, you can run a Docker container using the following command: 
