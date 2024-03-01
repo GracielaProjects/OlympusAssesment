@@ -40,7 +40,7 @@ docker pull gposadas00/olympus:latest
 
 ### Running the Docker Container
 After building the Docker image, you can run a Docker container using the following command: 
-(Important 'app/log' is the container location to the output so use this location to export content in the desire locally location)
+(Note: The output will be stored in the 'app/log' directory within the container. You can use this location to export the content to your desired local location.)
 ```bash
 docker run -it -v c:\junk:/app/log gposadas00/olympus:latest
 ```
